@@ -1,2 +1,2 @@
-# i m learning github
+# learning github
 - learned how to make branches and pull requests 
